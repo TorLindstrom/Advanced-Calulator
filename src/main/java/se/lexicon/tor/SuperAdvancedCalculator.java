@@ -4,6 +4,7 @@ public class SuperAdvancedCalculator {
 
     public static final String version = "0.8";
 
+    //starts running
     public static void main(String[] args) {
         run();
     }
